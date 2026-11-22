@@ -9,7 +9,7 @@
     "test": "pnpm run build && node --test test/*.test.mjs"
   },
   "dependencies": {
-    "@actions/core": "^1.11.1",
+    "@actions/core": "^3.0.1",
     "@octokit/graphql": "^8.2.2",
     "@octokit/plugin-retry": "^7.2.1",
     "@octokit/rest": "^21.1.1",
