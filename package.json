@@ -14,7 +14,7 @@
     "@octokit/plugin-retry": "^7.2.1",
     "@octokit/rest": "^21.1.1",
     "commander": "14.0.1",
-    "string-argv": "0.3.2"
+    "string-argv": "0.4.0"
   },
   "devDependencies": {
     "@types/node": "^20.12.7",
